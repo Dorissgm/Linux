@@ -1,4 +1,3 @@
-text
 name: CI Demo
 on: [push]
 jobs:
